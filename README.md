@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there 👋 </h1>
 
-<p align='center'>  I'm Viko (19 y.o) ! :sunglasses: </p>
+<p align='center'>  I'm Viko (umur 19) ! :sunglasses: </p>
 
-<p align='center'>bandar Penjelajah</p>
-<center><img alt="GitHub followers" src="https://img.shields.io/github/followers/vikodk67?style=for-the-badge"></center>
+<p align='center'>wong goblok, mung meneng ae ben ra dadi geger geden</p>
+<center><img alt="GitHub followers" src="https://img.shields.io/github/followers/vikodk67?style=for-the-badge"></img></center>
 <h2 align='center'> My skills: </h1>
    
 <p align="center">
