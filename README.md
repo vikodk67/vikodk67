@@ -2,7 +2,7 @@
 
 <p align='center'>  I'm Viko (umur 19) ! :sunglasses: </p>
 
-<p align='center'>wong goblok, mung meneng ae ben ra dadi geger geden</p>
+<p align='center'>wong goblok, wokwokwokwoko</p>
 <P align='center'><img alt="GitHub followers" src="https://img.shields.io/github/followers/vikodk67?style=for-the-badge"></img></p>
 <h2 align='center'> My skills: </h1>
    
