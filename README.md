@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs, html javascript**
 
-- 👯 I’m looking to collaborate on [BOTWEA](-)
+- 👯 I’m looking to collaborate on BOTWEA
 
 - ⚡ fun fact **Make Viko your best friend, then you will be rewarded in due time**
 
