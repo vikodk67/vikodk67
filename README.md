@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viko</h1>
-<h3 align="center">My hobi: Content creator, Music & Electronics</h3>
+<h3 align="center"> hobi: Content creator, Music & Electronics</h3>
 
-- 🌱 I’m currently learning **Nodejs, html javascript**
-
-- 👯 I’m looking to collaborate on BOTWEA
-
-- ⚡ fun fact **Make Viko your best friend, then you will be rewarded in due time**
+Programmer akhir zaman
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
