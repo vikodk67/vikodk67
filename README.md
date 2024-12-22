@@ -8,11 +8,7 @@
 
 <p align="left"></p>
 
-###
 
-<img src="https://raw.githubusercontent.com/vikodk67/vikodk67/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="center">Social media</h2>
 
