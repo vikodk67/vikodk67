@@ -18,9 +18,6 @@
   <a href="https://youtube.com/studiovdk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://wa.me/6281515958390" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
   <a href="https://instagram.com/vikodwik_rmx" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -54,9 +51,6 @@
 </div>
 
 ###
-
-<p align="center">Bermimpilah setinggi langit, karena jika kamu jatuh, kamu akan jatuh di antara bintang-bintang. 😊</p>
-
 ###
 
 <br clear="both">
