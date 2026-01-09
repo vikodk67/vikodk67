@@ -10,11 +10,6 @@
   <i>Backend-focused developer crafting APIs, automation tools, and modern web solutions.</i>
 </p>
 
-<br/>
-
-<h3 align="center">🌐 Social</h3>
-<br/>
-
 <h3 align="center">💻 Tech Stack</h3>
 
 <div align="center">
@@ -36,5 +31,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=90&section=footer"/>
 </p>
