@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Backend-focused developer crafting APIs, automation tools, and modern web solutions.</i>
+  <i>Kreatifitas tanpa batas tetapi ilmu terbatas</i>
 </p>
 
 <h3 align="center">💻 Tech Stack</h3>
