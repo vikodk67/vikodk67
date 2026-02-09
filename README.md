@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Kreatifitas tanpa batas tetapi ilmu terbatas</i>
+  <i>Kreatifitas tanpa batas ilmu terbatas🙃</i>
 </p>
 
 <h3 align="center">💻 Tech Stack</h3>
