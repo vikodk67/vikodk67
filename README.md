@@ -31,5 +31,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=200&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=200&section=footer" style="border-radius: 9px;"/>
 </p>
