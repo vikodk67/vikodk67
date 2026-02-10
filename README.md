@@ -1,5 +1,5 @@
 <h1 align="center">
-  StudioVDK
+  VIKODK67
 </h1>
 
 <p align="center">
