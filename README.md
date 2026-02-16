@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://temp.studiovdk.my.id/src/bc/logo/logo-white-banner.png" height="90" />
+  <img src="https://temp.studiovdk.my.id/src/bc/logo/logo-transparent-black-banner.png" height="90" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=0088ff&center=true&vCenter=true&width=600&lines=Turning+ideas+into+APIs;Digital+Forensics+beginner;Memanfaatkan+keadaan+sekarang" />
 </p>
