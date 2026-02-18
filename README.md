@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://temp.studiovdk.my.id/src/bc/logo/logo-transparent-black-banner.png" height="90" />
   <br/>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=00ACF7&width=435&lines=server-side+(backend)+applications;NodeJS+beginner;VIIX+-+STUDIOVDK)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=00ACF7&width=435&lines=server-side+(backend)+applications;NodeJS+beginner;VIIX+-+STUDIOVDK" />
 </p>
 
 <p align="center">
