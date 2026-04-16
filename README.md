@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=1000&color=00ACF7&center=true&width=435&lines=server-side+(backend)+applications;NodeJS+beginner;VIIX+-+STUDIOVDK" width="350px"/>
 </p>
 
-# 💫 About Me:
-- coding is just a hobby<br>- I work as a technician & electronics industry
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vikodwik.rmx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikodwik_rmx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@studiovdk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brizyy36@gmail.com) 
 
