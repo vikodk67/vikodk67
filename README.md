@@ -1,7 +1,3 @@
-<h1 align="center">
-  VIKODK67
-</h1>
-
 <p align="center">
   <img src="mylogo.png" height="150" />
   <br/>
